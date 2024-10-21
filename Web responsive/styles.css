@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #6c757d;
+  }
+  
+  .nav-item a {
+    color: white !important;
+  }
+  
+  .highlight-text {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .sidebar {
+    border-right: 1px solid #ccc;
+  }
+  .text-bg-light {
+    background-color: #f8f9fa; 
+    padding: 10px; 
+  }
+  
+
